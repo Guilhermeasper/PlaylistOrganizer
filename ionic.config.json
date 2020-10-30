@@ -1,0 +1,7 @@
+{
+  "name": "PlaylistOrganizer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
